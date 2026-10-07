@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there, I'm Kashish Kondalkar 👋
 
-<!--
-**kashishkondalkar34-cmyk/kashishkondalkar34-cmyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BCA Student | Aspiring Python Full Stack Developer**
 
-Here are some ideas to get you started:
+I am passionate about building web applications and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Python, Flask, REST API
+- **Database:** SQL
+- **Tools:** Git & GitHub
+
+### 🌱 Currently Learning
+Python Full Stack Development
+
+### 📫 Connect with me
+- 📍 Wardha, Maharashtra, India
+- ✉️ kashishkondalkar34@gmail.com
+
+### 🔗 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashish-kondalkar-293104423)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kashish_kondalkar_?stkn=czA3a2w0c2RoNnRq)
+
+---
+![Kashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashishkondalkar34-cmyk&show_icons=true&theme=tokyonight)
